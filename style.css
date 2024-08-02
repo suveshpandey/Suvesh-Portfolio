@@ -1,0 +1,53 @@
+.image{
+    border: 1px solid rgb(206, 205, 205);
+    box-shadow:  
+    0 0 .5rem #3877FF,
+    inset 0 0 .5rem #1f56cd;
+}
+.resume{
+    border: 1px solid rgb(206, 205, 205);
+    box-shadow:  
+    0 0 .4rem #3877FF,
+    inset 0 0 .4rem #1f56cd;
+}
+.resumeNew{
+    border: 1px solid rgb(206, 205, 205);
+    box-shadow:  
+    0 0 .4rem #3877FF,
+    inset 0 0 .4rem #1f56cd;
+}
+.occupation{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: linear-gradient(to right, blue, red);
+    background-clip: text; /* Standard property */
+    -webkit-background-clip: text; /* Webkit-specific property */
+    color: transparent; /* Standard property */
+    -webkit-text-fill-color: transparent; /* Webkit-specific property */
+}
+.techProjects{
+    color: antiquewhite;
+    font-size: 14px;
+    font-weight: 400;
+    background-color: #334155;
+    padding: 1px 4px;
+    border-radius: 50px;
+    border: 1px solid #817bf4;
+}
+
+
+.ftext{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: linear-gradient(to right, rgb(0, 81, 255),rgb(0, 81, 255));
+    background-clip: text; /* Standard property */
+    -webkit-background-clip: text; /* Webkit-specific property */
+    color: transparent; /* Standard property */
+    -webkit-text-fill-color: transparent; /* Webkit-specific property */
+}
+.stext{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: linear-gradient(to right, rgb(0, 81, 255), rgb(248, 57, 57));
+    background-clip: text; /* Standard property */
+    -webkit-background-clip: text; /* Webkit-specific property */
+    color: transparent; /* Standard property */
+    -webkit-text-fill-color: transparent; /* Webkit-specific property */
+}
