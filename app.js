@@ -129,6 +129,12 @@ resume2.addEventListener('click', ()=>{
     link.click();
 });
 
+const goToTopBtn = document.querySelector(".goToTopBtn");
+const navbar = document.querySelector(".navbar");
+goToTopBtn.addEventListener('click', ()=>{
+    navbar.scrollIntoView({behavior: 'smooth'});
+})
+
 
 // let title = document.querySelector('.occupation');
 // let index = 1;
